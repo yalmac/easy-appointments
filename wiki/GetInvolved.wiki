@@ -1,5 +1,4 @@
 #summary Learn in which ways you can get involved with the project development!
-#labels Featured
 
 = Get Involved =
 
