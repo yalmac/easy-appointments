@@ -1,5 +1,4 @@
 #summary This page will guide you through the update procedure.
-#labels Featured
 
 = Update Easy!Appointments =
 
